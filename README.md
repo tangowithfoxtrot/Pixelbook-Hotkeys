@@ -1,2 +1,2 @@
 # Pixelbook-Hotkeys
-A collection of scripts to enable normal functionality of Pixelbook hotkeys.
+A collection of scripts to enable normal functionality of Pixelbook hotkeys on Windows.
